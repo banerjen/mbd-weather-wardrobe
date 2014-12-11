@@ -1,0 +1,129 @@
+---------------
+0. Introduction
+---------------
+
+Hello and thank you for downloading my webcam capture program!
+
+hwebcam is a simple program that lets you capture a video stream from a
+uvc-compatible webcam and display it to the screen or save it in Ogg/Theora
+format. Optionally, audio from the built-in microphone present in many webcams
+can also be captured and encoded in Vorbis. The resulting Ogg file can be saved
+and/or streamed through the net using icecast.
+
+These are some of the things you can do with hwebcam:
+
+  a) Capture and display a video in a sdl window
+  b) Capture and save a picture every n video frames (or every frame)
+  c) Save the captured video stream in Ogg/Theora format to an output file,
+     or send it to stdout
+  d) Same as previous point, but also including Vorbis audio
+
+Of course you can do, for example, a and b together, or a and d together.
+
+Note: hwebcam supports capturing from webcams in raw (YUYV) mode, mjpeg mode or
+jpeg mode using streaming I/O. The images are saved in Portable Pix Map (ppm)
+format when capturing in raw mode and in jpeg format when capturing in mjpeg/jpeg
+mode.
+
+----------
+1. License
+----------
+
+hwebcam is released under the GNU GPLv3 license.
+
+-------------------------
+2. How to compile hwebcam
+-------------------------
+
+hwebcam is written in C an uses the v4l2 api to access the webcam, along
+with several external libraries to do the encoding/decoding stuff. Since
+it is still a relatively simple program, there is no configure script.
+In order to compile hwebcam you need:
+
+  1) gcc
+  2) make
+  3) libsdl (optional)
+  4) libtheora 1.1
+  5) libasound
+  6) libvorbis
+  7) libvorbisenc
+  8) libjpeg
+
+Under Debian/Ubuntu all the dependencies should be satisfied by installing the
+following packages:
+
+build-essential libsdl1.2-dev libtheora-dev libasound2-dev libvorbis-dev
+libvorbisenc2 libjpeg62-dev
+
+You can compile the sources simply with:
+
+$ make
+
+or if you don't need the SDL version, with:
+
+$ make USE_SDL=0
+
+hwebcam uses simd optimizations for some functions on the x86 architecture. To
+enable these optimizations compile hwebcam like this:
+
+$ make ARCH=X86_64
+
+Allowed values of ARCH are: X86_32, X86_64, generic (which is the default).
+
+If you want to clean the build directory just run:
+
+$ make clean
+
+The resulting binary can be put, for example, in /usr/local/bin or can be run
+from the local directory.
+
+----------------
+3. Using hwebcam
+----------------
+
+You can access the help by running:
+
+$ ./hwebcam -h
+
+The values in parentheses on the right are the default values.
+Here's some command line examples:
+
+  * Display captured video in a sdl window:
+    ./hwebcam -w
+  * As previous command, but enable verbose mode:
+    ./hwebcam -w -v
+  * Even more verbose:
+    ./hwebcam -w -v -v
+  * Select video device, frame size and frame rate:
+    ./hwebcam -w -v -d /dev/video1 -s 352x288 -i 20
+  * Save a picture every 10 seconds:
+    ./hwebcam -w -t 10
+  * As previous, but capture in mjpeg mode:
+    ./hwebcam -w -t 10 -f mjpeg
+  * Capture a 15 fps video and save it to an Ogg file:
+    ./hwebcam -w -i 15 -e
+  * As previous command, but choose filename and quality:
+    ./hwebcam -w -i 15 -e -q 48 -o video.ogg
+  * Capture audio and video:
+    ./hwebcam -w -e -q 48 -a -D hw:1,0 -Q 0.3 -o avstream.ogg
+
+-----------------
+4. Live streaming
+-----------------
+
+Please read STREAMING-HOWTO if you want to stream the captured video with
+icecast.
+
+-----------------
+5. Tested webcams
+-----------------
+
+ * Logitech C200
+
+---------
+6. Author
+---------
+
+Giorgio Vazzana, <mywing81@gmail.com>
+
+Dec 7th, 2011

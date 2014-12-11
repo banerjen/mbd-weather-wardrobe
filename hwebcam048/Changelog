@@ -1,0 +1,133 @@
+version 0.48:
+
+	* Encoding support for image heights not multiple of 16
+	* jpeg.c: abort if fill_input_buffer() is called
+
+version 0.47:
+
+	* Discard damaged jpeg images
+	* output_message() method in jpeg error handler
+	* Two levels of status bar (-v and -v -v)
+	* Simpler buffer overrun handling
+	* Added common.{h,c} (message printing utilities)
+	* Lots of cosmetics fixes
+
+version 0.46:
+
+	* Option -I to select v4l2 device input
+	* Option -f to select pixelformat
+	* Algorithm to maintain a/v sync by dropping/duplicating frames
+	* V4L2_PIX_FMT_YUV420 support
+	* Use posix_memalign() to allocate memory for ycbcrbuf
+	* Better buffer overrun handling
+
+version 0.45:
+
+	* Error manager for libjpeg
+	* Support for fractional fps
+	* Acquisition from v4l2 devices, like TV cards, that support a standard (PAL, NTSC, etc)
+	* Flush stream at the end of muxer_write()
+	* Embed program version in stream comments
+
+version 0.44:
+
+	* Use multiplication instead of division in int16_t -> float conversion loop
+	* buffer overrun handling
+	* audio.{h,c}: added playback support
+	* Faster and simpler audio_find_peak()
+
+version 0.43:
+
+	* Grayscale video support
+	* Added yuyv422_to_y8() (c, mmxext, sse2)
+	* Makefile: better CFLAGS handling
+	* Fixed license header
+
+version 0.42:
+
+	* yuyv422_to_yuv420p() simd optimization for x86_{32,64} (mmxext, sse2)
+	* Runtime simd extensions detection for x86 cpus
+	* Makefile support for ARCH=X86_{32,64}
+	* More precise yuv444->yuv422 conversion in jpeg_decompress
+	* More precise average calculation on yuyv422_to_yuv420p_c()
+	* Fix memory allocation in ycbcrbuf
+	* Stats: print only nonzero fields
+	* Stats: time spent in sdl code
+	* Stats: audio ring buffer fill state
+
+version 0.41:
+
+	* V4L2_PIX_FMT_JPEG support
+	* Use only one variable i_rows_c in yuyv422_to_yuv420p()
+	* Initialize max to correct value in audio_find_peak()
+
+version 0.40:
+
+	* mjpeg decoding via libjpeg
+	* V4L2_PIX_FMT_MJPEG support
+	* Save frames in jpeg format when capturing in mjpeg
+	* yuyv422_to_rgb24() optimization
+	* Bugfix: prevent infinite loop in muxer_write() on i32 due to fp comparison
+	* README update
+
+version 0.33:
+
+	* yuyv422_to_yuv420p() optimization
+	* Bugfix: fflush(stderr)
+	* Makefile: introduce USE_SDL, we now have only one makefile
+	* README update
+
+version 0.32:
+
+	* Add audio_find_peak()
+	* Use only one fprintf in usage()
+	* Move stats printing at the end of the main loop
+
+version 0.31:
+
+	* Add muxer to produce valid ogg files
+	* When encoding in Theora, make sure image sizes are multiple of 16
+	* Print audio/video info only when verbose >= 2
+
+version 0.30:
+
+	* Vorbis audio encoding
+	* poll() support and general rework
+	* verbose levels
+	* Lots of cosmetics
+	* Makefile, README and STREAMING-HOWTO update
+	* Add MSGPREFIX in video.c
+	* Add video_{start,stop}_streaming()
+
+version 0.23:
+
+	* Check sigaction return value
+	* Bugfix in sdl caption_string when actual_fps = 0
+	* Add th_*_clear()
+	* Use unsigned int for width/height in video_init()
+
+version 0.22:
+
+	* Bugfix in yuyv422_to_yuv420p()
+	* More robust fps calculation
+	* Better support for duplicate frames at fps/2 and fps/4
+	* Cosmetics: HWebcam -> hwebcam
+
+version 0.21:
+
+	* Ogg stream serialno = time(NULL)
+	* keyframe_granule_shift = 6
+	* Use ogg_stream_pageout for the headers and then ogg_stream_flush
+	* STREAMING-HOWTO
+
+version 0.20:
+
+	* Theora video encoding
+
+version 0.11:
+
+	* Move normal output to stderr
+
+version 0.10:
+
+	* Initial release

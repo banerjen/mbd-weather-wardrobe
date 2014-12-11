@@ -1,0 +1,33 @@
+Simple Streaming-howto using hwebcam + oggfwd + icecast2:
+
+1) Install icecast2 and oggfwd with:
+   sudo apt-get install icecast2 oggfwd
+2) Edit /etc/icecast2/icecast.xml and change:
+   limits/burst-size: 131072 (only for high bitrate streams, otherwise 65536 is fine)
+   authentication/passwords
+   hostname
+   listen-socket/port (if you need a different port)
+3) Edit /etc/default/icecast2 and set ENABLE=true
+4) Start the icecast2 server with:
+   sudo /etc/init.d/icecast2 start
+5) Start capturing with hwebcam and send the stream to the
+   server using oggfwd (you need to substitute PORT and PASS
+   with the correct values in the command below):
+
+   ./hwebcam -d /dev/video1 -s 352x288 -i 10 -w -e -o - | oggfwd -n Webcam -d "Webcam test" localhost PORT PASS /webcam.ogg
+
+   This will capture a 352x288@10fps stream from /dev/video1,
+   display it on a sdl window, encode the stream to Ogg/Theora
+   and dump the encoded file to stdout. oggfwd will read from
+   stdin and forward the stream to the server using the mountpoint
+   /webcam.ogg, setting name and description of the stream to
+   "Webcam" and "Webcam test" respectively.
+6) Fire up a Ogg/Theora compatible browser (like Firefox or
+   Chromium) and point it to:
+
+   http://localhost:PORT/webcam.ogg
+
+   you should be able to see the streaming video. Or, you can of
+   course use your favourite video player, like totem, vlc, ffplay
+   or mplayer to watch the stream.
+
