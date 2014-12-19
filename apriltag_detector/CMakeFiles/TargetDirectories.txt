@@ -1,2 +1,0 @@
-/home/root/all_code/apriltag_detector/CMakeFiles/capture.dir
-/home/root/all_code/apriltag_detector/CMakeFiles/mbd_apriltags_c.dir
