@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -O2 -g -DNDEBUG    CMakeFiles/capture.dir/capture.c.o  -o capture  -Lapriltags  -Lapriltags/common -rdynamic -ljpeg -Wl,-rpath,apriltags:apriltags/common 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmbd_apriltags_c.a  CMakeFiles/mbd_apriltags_c.dir/apriltag_detector.cpp.o
+/usr/bin/ranlib libmbd_apriltags_c.a

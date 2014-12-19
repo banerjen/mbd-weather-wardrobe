@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/root/all_code/apriltag_detector/capture.c
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+fcntl.h
+-
+sys/ioctl.h
+-
+sys/mman.h
+-
+asm/types.h
+-
+linux/videodev2.h
+-
+sys/time.h
+-
+sys/types.h
+-
+unistd.h
+-
+jpeglib.h
+-
+
