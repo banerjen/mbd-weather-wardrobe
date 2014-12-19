@@ -54,11 +54,11 @@ int main(int argc, char *argv[])
 		printTagsHardCode(clothes_database, tags_list);
 		//getInput(fuzzy_inference);
 		getInputHardCode(fuzzy_inference);
-    	fuzzy_inference->startFuzzy();
-    	displayOutput(fuzzy_inference);
-    	displayClothes(fuzzy_inference, clothes_database);
-    	//std::cout << "Do you want a new selection? (y/n): "; 
-    	std::cin >> c;
+		fuzzy_inference->startFuzzy();
+		displayOutput(fuzzy_inference);
+		displayClothes(fuzzy_inference, clothes_database);
+		//std::cout << "Do you want a new selection? (y/n): "; 
+		std::cin >> c;
     }
 
     return 0;
