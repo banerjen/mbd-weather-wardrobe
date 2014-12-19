@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 166
+Makefile.depend
+importinc
+pamfile
+pamsharpmap
+pamsharpness
+pamslice
+pamsumm
+pamtilt
+pgmhist
+pgmminkowski
+pgmtexture
+pnmhistmap
+pnmpsnr
+ppmhist
+pbmminkowski
+depend.mk
+
+END

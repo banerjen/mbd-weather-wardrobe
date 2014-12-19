@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/Makefile
+END
+jpeg2ktopam.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/jpeg2ktopam.c
+END
+libjasper_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper_compat.h
+END
+pamtojpeg2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/pamtojpeg2k.c
+END

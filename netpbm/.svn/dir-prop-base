@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 106
+Makefile.depend
+build_complete
+config.mk
+importinc
+inttypes_netpbm.h
+pm_config.h
+version.h
+TAGS
+depend.mk
+
+K 13
+svn:mergeinfo
+V 199
+/advanced:1356,1723
+/stable:1666
+/trunk:1173,1324,1330,1351,1359,1363,1388-1389,1445,1454,1514-1516,1566,1593,1596,1603,1605,1633-1635,1645,1650-1651,1666,1694,1722,1746,1762,1765,1768,1801,1808,1813
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/1402/stable/converter/pgm
+END
+hipstopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/hipstopgm.c
+END
+pgmtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/pgmtopgm.c
+END
+lispmtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/lispmtopgm.c
+END
+pgmtolispm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/pgmtolispm.c
+END
+sbigtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/sbigtopgm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/Makefile
+END
+spottopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/pgm/spottopgm.c
+END
+asciitopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/1402/stable/converter/pgm/asciitopgm.c
+END
+fstopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/converter/pgm/fstopgm.c
+END
+pgmtofs.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/pgmtofs.c
+END
+rawtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/pgm/rawtopgm.c
+END
+psidtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/pgm/psidtopgm.c
+END
+bioradtopgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/9/stable/converter/pgm/bioradtopgm.c
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 48
+Makefile.depend
+importinc
+cameratopam
+depend.mk
+
+END

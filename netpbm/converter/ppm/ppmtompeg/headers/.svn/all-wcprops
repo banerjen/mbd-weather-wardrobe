@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers
+END
+opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/opts.h
+END
+prototypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/prototypes.h
+END
+mpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/mpeg.h
+END
+huff.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/huff.h
+END
+motion_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/motion_search.h
+END
+ansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/ansi.h
+END
+rate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/rate.h
+END
+parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/77/stable/converter/ppm/ppmtompeg/headers/parallel.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/input.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/param.h
+END
+iframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/iframe.h
+END
+bitio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/bitio.h
+END
+psocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/psocket.h
+END
+dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/dct.h
+END
+frames.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/frames.h
+END
+mproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/mproto.h
+END
+mtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/mtypes.h
+END
+jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/jpeg.h
+END
+readframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/readframe.h
+END
+mheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/mheaders.h
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/block.h
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/frame.h
+END
+subsample.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/subsample.h
+END
+frametype.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/frametype.h
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/headers/byteorder.h
+END
+specifics.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/specifics.h
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/all.h
+END
+rgbtoycc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/rgbtoycc.h
+END
+combine.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/combine.h
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/general.h
+END
+fsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/fsize.h
+END
+postdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/headers/postdct.h
+END

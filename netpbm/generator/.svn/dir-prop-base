@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 223
+Makefile.depend
+importinc
+pamgauss
+pamgradient
+pamseq
+pamstereogram
+pbmmake
+pbmpage
+pbmtext
+pbmtextps
+pbmupc
+pgmcrater
+pgmkernel
+pgmmake
+pgmnoise
+pgmramp
+ppmcie
+ppmcolors
+ppmforge
+ppmmake
+ppmpat
+ppmrough
+ppmwheel
+depend.mk
+
+END

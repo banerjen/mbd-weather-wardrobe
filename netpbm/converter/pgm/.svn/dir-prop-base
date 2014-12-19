@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 155
+Makefile.depend
+importinc
+asciitopgm
+bioradtopgm
+fstopgm
+hipstopgm
+lispmtopgm
+pgmtofs
+pgmtolispm
+pgmtopgm
+psidtopgm
+rawtopgm
+sbigtopgm
+spottopgm
+depend.mk
+
+END

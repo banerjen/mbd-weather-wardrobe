@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/2197/stable/analyzer
+END
+pamsumm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/analyzer/pamsumm.c
+END
+pgmminkowski.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/analyzer/pgmminkowski.c
+END
+pnmhistmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/1130/stable/analyzer/pnmhistmap.c
+END
+pamsharpness.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/2197/stable/analyzer/pamsharpness.c
+END
+pgmtexture.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/2165/stable/analyzer/pgmtexture.c
+END
+ppmhist.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/analyzer/ppmhist.c
+END
+pamsharpmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/analyzer/pamsharpmap.c
+END
+pamtilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1897/stable/analyzer/pamtilt.c
+END
+pbmminkowski.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/analyzer/pbmminkowski.c
+END
+pgmhist.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1799/stable/analyzer/pgmhist.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/2165/stable/analyzer/Makefile
+END
+pamfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/analyzer/pamfile.c
+END
+pamslice.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/analyzer/pamslice.c
+END
+pnmpsnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1799/stable/analyzer/pnmpsnr.c
+END

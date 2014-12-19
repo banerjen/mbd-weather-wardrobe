@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 60
+Makefile.depend
+importinc
+*.a
+jbigtopnm
+pnmtojbig
+depend.mk
+
+END

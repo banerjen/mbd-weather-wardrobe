@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 200
+Makefile.depend
+importinc
+pamarith
+pambayer
+pamchannel
+pamdepth
+pamendian
+pamfixtrunc
+pamlookup
+pampick
+pamsplit
+pamstack
+pamsummcol
+pnmcolormap
+ppmdcfont
+ppmddumpfont
+ppmdmkfont
+ppmsvgalib
+depend.mk
+
+END

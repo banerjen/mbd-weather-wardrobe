@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/2165/stable/converter/ppm
+END
+ppmtolj.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtolj.c
+END
+autocad.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/autocad.h
+END
+sputoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/sputoppm.c
+END
+leaftoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/1852/stable/converter/ppm/leaftoppm.c
+END
+ppmtopuzz.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtopuzz.c
+END
+ppmtopj.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtopj.c
+END
+gouldtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/gouldtoppm.c
+END
+tgatoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/tgatoppm.c
+END
+neotoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/neotoppm.c
+END
+sldtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/sldtoppm.c
+END
+pc1toppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/pc1toppm.c
+END
+ppmtoyuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoyuv.c
+END
+ilbmtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/1357/stable/converter/ppm/ilbmtoppm.c
+END
+pi1toppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/pi1toppm.c
+END
+rawtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/rawtoppm.c
+END
+winico.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/winico.html
+END
+ppmtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoppm.c
+END
+ximtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ximtoppm.c
+END
+ppmtorgb3.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtorgb3.c
+END
+ppmtomitsu.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtomitsu.test
+END
+yuvsplittoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/yuvsplittoppm.c
+END
+pcxstd.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/pcxstd.ppm
+END
+picttoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/picttoppm.c
+END
+ppmtoxpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/1960/stable/converter/ppm/ppmtoxpm.c
+END
+xpmtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/1725/stable/converter/ppm/xpmtoppm.c
+END
+ppmtoarbtxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtoarbtxt.c
+END
+411toppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/411toppm.c
+END
+ppmtogif.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtogif.c
+END
+qrttoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/qrttoppm.c
+END
+winicontoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/winicontoppm.c
+END
+mtvtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/mtvtoppm.c
+END
+ppmtowinicon.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/1897/stable/converter/ppm/ppmtowinicon.c
+END
+ppmtoleaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtoleaf.c
+END
+ppmtoterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtoterm.c
+END
+ilbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ilbm.h
+END
+pjtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/pjtoppm.c
+END
+xvminitoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/xvminitoppm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/Makefile
+END
+imgtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/imgtoppm.c
+END
+ppmtoicr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoicr.c
+END
+winico.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/winico.h
+END
+ppmtopjxl.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtopjxl.c
+END
+ppmtobmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/1708/stable/converter/ppm/ppmtobmp.c
+END
+xpmtoppm.README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/xpmtoppm.README
+END
+ppmtoneo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoneo.c
+END
+vidtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/vidtoppm.c
+END
+xim.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/xim.h
+END
+ppmtoilbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/1150/stable/converter/ppm/ppmtoilbm.c
+END
+yuvtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/yuvtoppm.c
+END
+ppmtosixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtosixel.c
+END
+spctoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/spctoppm.c
+END
+mitsu.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/mitsu.h
+END
+ppmtoeyuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoeyuv.c
+END
+eyuvtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/eyuvtoppm.c
+END
+ppmtoacad.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtoacad.c
+END
+ppmtopi1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtopi1.c
+END
+ppmtopcx.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtopcx.c
+END
+pcxtoppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/pcxtoppm.c
+END
+rgb3toppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/rgb3toppm.c
+END
+ppmtopict.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtopict.c
+END
+ppmtoyuvsplit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtoyuvsplit.c
+END
+ppmtomitsu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtomitsu.c
+END

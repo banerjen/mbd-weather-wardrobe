@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/2276/stable/converter/other/cameratopam
+END
+identify.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/identify.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/util.h
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/decode.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/COPYRIGHT
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/decode.h
+END
+camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/camera.c
+END
+cameratopam.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/995/stable/converter/other/cameratopam/cameratopam.c
+END
+foveon.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/2276/stable/converter/other/cameratopam/foveon.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/995/stable/converter/other/cameratopam/Makefile
+END
+global_variables.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/global_variables.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/camera.h
+END
+canon.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/canon.c
+END
+foveon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/foveon.h
+END
+ljpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/ljpeg.c
+END
+canon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/canon.h
+END
+ljpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/ljpeg.h
+END
+bayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/bayer.h
+END
+dng.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/dng.c
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/identify.c
+END
+dng.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/dng.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/cameratopam/util.c
+END

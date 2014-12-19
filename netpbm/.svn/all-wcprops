@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/p/netpbm/code/!svn/ver/2322/stable
+END
+version.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/2322/stable/version.mk
+END
+srcdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/995/stable/srcdir.mk
+END
+pm_config.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/2002/stable/pm_config.in.h
+END
+installnetpbm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/9/stable/installnetpbm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/netpbm/code/!svn/ver/995/stable/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/netpbm/code/!svn/ver/995/stable/Makefile
+END
+common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/2002/stable/common.mk
+END
+config.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/config.mk.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/netpbm/code/!svn/ver/9/stable/configure
+END
+testgrid.pbm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/9/stable/testgrid.pbm
+END
+netpbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/netpbm/code/!svn/ver/9/stable/netpbm.c
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/2276/stable/GNUmakefile
+END
+testimg.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/9/stable/testimg.ppm
+END
+manweb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/p/netpbm/code/!svn/ver/9/stable/manweb
+END

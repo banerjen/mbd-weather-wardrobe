@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/libjasper/base
+END
+jas_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_seq.c
+END
+jas_tvp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_tvp.c
+END
+jas_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/libjasper/base/jas_stream.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/libjasper/base/Makefile
+END
+jas_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_getopt.c
+END
+jas_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_image.c
+END
+jas_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_init.c
+END
+jas_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_version.c
+END
+jas_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_debug.c
+END
+jas_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_string.c
+END
+jas_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/base/jas_malloc.c
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/netpbm/code/!svn/ver/2322/stable/editor
+END
+pamaddnoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/editor/pamaddnoise.c
+END
+pnmflip
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmflip
+END
+pamcut.test
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/editor/pamcut.test
+END
+pnmpaste.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmpaste.c
+END
+ppmlabel.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmlabel.c
+END
+pnmgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmgamma.c
+END
+pgmdeshadow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/editor/pgmdeshadow.c
+END
+ppmchange.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmchange.c
+END
+pbmpscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pbmpscale.c
+END
+pbmreduce.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pbmreduce.c
+END
+ppmcolormask.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmcolormask.c
+END
+pnmhisteq.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmhisteq.c
+END
+pnmrotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmrotate.c
+END
+pnmconvol.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1100/stable/editor/pnmconvol.c
+END
+ppmquantall
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmquantall
+END
+pnmpad.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmpad.c
+END
+pnmremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/1960/stable/editor/pnmremap.c
+END
+ppmbrighten.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmbrighten.c
+END
+pbmclean.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/editor/pbmclean.c
+END
+pnmcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmcat.c
+END
+pnmsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1076/stable/editor/pnmsmooth.c
+END
+pamflip.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pamflip.c
+END
+ppmdither.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmdither.c
+END
+pamsistoaglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/editor/pamsistoaglyph.c
+END
+pnmmargin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/2165/stable/editor/pnmmargin
+END
+pamenlarge.test
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/editor/pamenlarge.test
+END
+pnmtile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmtile.c
+END
+pnmstitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmstitch.c
+END
+pnmcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmcomp.c
+END
+pammasksharpen.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/editor/pammasksharpen.c
+END
+ppmmix.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmmix.c
+END
+ppmflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmflash.c
+END
+pamdither.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pamdither.c
+END
+pnmshear.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/2062/stable/editor/pnmshear.c
+END
+pnminvert.test
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/editor/pnminvert.test
+END
+pnmscalefixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmscalefixed.c
+END
+pnminvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/editor/pnminvert.c
+END
+pnmquant
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/1552/stable/editor/pnmquant
+END
+ppmquant
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmquant
+END
+pnmnorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmnorm.c
+END
+pamperspective.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/995/stable/editor/pamperspective.c
+END
+pamfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pamfunc.c
+END
+ppmfade
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmfade
+END
+pamcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/1552/stable/editor/pamcomp.c
+END
+pamstretch-gen
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/editor/pamstretch-gen
+END
+pgmmedian.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pgmmedian.c
+END
+pamdice.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pamdice.c
+END
+pnmnlfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmnlfilt.c
+END
+pamundice.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pamundice.c
+END
+pgmenhance.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/editor/pgmenhance.c
+END
+pamditherbw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/editor/pamditherbw.c
+END
+pnmindex.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmindex.sh
+END
+ppmdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/ppmdraw.c
+END
+pamenlarge.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/editor/pamenlarge.c
+END
+pambackground.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/2322/stable/editor/pambackground.c
+END
+ppmdist.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmdist.c
+END
+ppmshadow
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmshadow
+END
+pamscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/1608/stable/editor/pamscale.c
+END
+ppmshadow.doc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmshadow.doc
+END
+pamflip.test
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/editor/pamflip.test
+END
+ppmdim.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmdim.c
+END
+pamcut.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/editor/pamcut.c
+END
+ppmquantall.csh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/9/stable/editor/ppmquantall.csh
+END
+pamthreshold.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/editor/pamthreshold.c
+END
+pbmmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/editor/pbmmask.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/2165/stable/editor/Makefile
+END
+pnmsmooth.README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/editor/pnmsmooth.README
+END
+pamedge.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pamedge.c
+END
+pnmalias.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/editor/pnmalias.c
+END
+pnmmontage.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/1799/stable/editor/pnmmontage.c
+END
+pamstretch.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/editor/pamstretch.c
+END
+pnmindex.csh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/editor/pnmindex.csh
+END
+pnmcrop.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/editor/pnmcrop.c
+END

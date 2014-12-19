@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jbig
+END
+jbig.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/jbig.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jbig/Makefile
+END
+jbig.doc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/jbig.doc
+END
+README.Netpbm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/README.Netpbm
+END
+jbig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/jbig.h
+END
+jbig_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/jbig_tab.c
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/ANNOUNCE
+END
+jbigtopnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/jbigtopnm.c
+END
+pnmtojbig.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jbig/pnmtojbig.c
+END

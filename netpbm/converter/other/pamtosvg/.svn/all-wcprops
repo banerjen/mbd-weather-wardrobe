@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/1104/stable/converter/other/pamtosvg
+END
+image-header.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/image-header.h
+END
+epsilon-equal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/epsilon-equal.c
+END
+fit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/fit.c
+END
+epsilon-equal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/epsilon-equal.h
+END
+autotrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/autotrace.c
+END
+fit.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/fit.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/Makefile
+END
+autotrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/autotrace.h
+END
+output-svg.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/output-svg.c
+END
+output-svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/output-svg.h
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/1104/stable/converter/other/pamtosvg/vector.c
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/vector.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/README
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/bitmap.c
+END
+logreport.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/logreport.c
+END
+pxl-outline.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/pxl-outline.c
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/bitmap.h
+END
+thin-image.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/thin-image.c
+END
+logreport.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/logreport.h
+END
+image-proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/image-proc.c
+END
+curve.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/curve.c
+END
+pxl-outline.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/pxl-outline.h
+END
+thin-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/thin-image.h
+END
+image-proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/image-proc.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/message.h
+END
+curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/curve.h
+END
+spline.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/spline.c
+END
+pamtosvg.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/pamtosvg.test
+END
+point.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/point.h
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/exception.c
+END
+spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/spline.h
+END
+pamtosvg.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pamtosvg/pamtosvg.c
+END
+testgrid.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/testgrid.svg
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/exception.h
+END
+testline.svg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pamtosvg/testline.svg
+END

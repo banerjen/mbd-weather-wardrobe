@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/2165/stable/editor/specialty
+END
+pnmindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pnmindex.c
+END
+pammixinterlace.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pammixinterlace.c
+END
+ppmrelief.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/2165/stable/editor/specialty/ppmrelief.c
+END
+ppm3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppm3d.c
+END
+ppmntsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppmntsc.c
+END
+pampop9.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pampop9.c
+END
+ppmshift.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppmshift.c
+END
+ppmspread.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppmspread.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/2165/stable/editor/specialty/Makefile
+END
+ppmglobe.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppmglobe.c
+END
+pgmbentley.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pgmbentley.c
+END
+ppmtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/ppmtv.c
+END
+pgmabel.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pgmabel.c
+END
+pamdeinterlace.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/2165/stable/editor/specialty/pamdeinterlace.c
+END
+pbmlife.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pbmlife.c
+END
+pgmmorphconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pgmmorphconv.c
+END
+pamoil.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/netpbm/code/!svn/ver/995/stable/editor/specialty/pamoil.c
+END

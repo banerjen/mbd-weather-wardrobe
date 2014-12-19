@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/codec
+END
+coder.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/codec/coder.c
+END
+coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/coder.h
+END
+dfiasco.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/dfiasco.c
+END
+ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/ip.c
+END
+dfiasco.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/dfiasco.h
+END
+ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/ip.h
+END
+subdivide.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/subdivide.c
+END
+coeff.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/coeff.c
+END
+subdivide.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/subdivide.h
+END
+cwfa.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/cwfa.h
+END
+tiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/tiling.c
+END
+coeff.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/coeff.h
+END
+bintree.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/bintree.c
+END
+mwfa.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/mwfa.c
+END
+tiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/tiling.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/options.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/codec/Makefile
+END
+bintree.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/bintree.h
+END
+mwfa.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/mwfa.h
+END
+prediction.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/prediction.c
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/options.h
+END
+wfalib.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/wfalib.c
+END
+prediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/prediction.h
+END
+motion.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/motion.c
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/codec/decoder.c
+END
+approx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/approx.c
+END
+wfalib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/wfalib.h
+END
+motion.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/motion.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/decoder.h
+END
+approx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/approx.h
+END
+domain-pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/domain-pool.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/control.c
+END
+wfa.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/wfa.h
+END
+domain-pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/domain-pool.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/codec/control.h
+END

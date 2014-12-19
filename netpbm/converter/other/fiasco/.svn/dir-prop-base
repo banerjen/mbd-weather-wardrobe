@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 60
+Makefile.depend
+importinc
+fiascotopnm
+pnmtofiasco
+depend.mk
+
+END

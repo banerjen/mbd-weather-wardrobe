@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/p/netpbm/code/!svn/ver/995/stable/urt
+END
+rle_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_error.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/urt/Makefile
+END
+Runput.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/9/stable/urt/Runput.c
+END
+scanargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/995/stable/urt/scanargs.c
+END
+rle_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_global.c
+END
+Runput.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/9/stable/urt/Runput.h
+END
+rle_putrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_putrow.c
+END
+cmd_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/urt/cmd_name.c
+END
+rle_open_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/urt/rle_open_f.c
+END
+rle_getskip.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_getskip.c
+END
+rle_getrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_getrow.c
+END
+rle_putcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_putcom.c
+END
+rle_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_config.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/netpbm/code/!svn/ver/9/stable/urt/README
+END
+vaxshort.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/urt/vaxshort.c
+END
+rle_hdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_hdr.c
+END
+rle_put.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_put.h
+END
+rle_getcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_getcom.c
+END
+rle_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_code.h
+END
+rle_addhist.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_addhist.c
+END
+vaxshort.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/urt/vaxshort.h
+END
+rle.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/netpbm/code/!svn/ver/9/stable/urt/rle.h
+END
+rle_row_alc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/urt/rle_row_alc.c
+END

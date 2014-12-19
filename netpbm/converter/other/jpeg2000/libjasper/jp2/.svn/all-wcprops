@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/libjasper/jp2
+END
+jp2_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/jp2/jp2_dec.c
+END
+jp2_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/jp2/jp2_dec.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/995/stable/converter/other/jpeg2000/libjasper/jp2/Makefile
+END
+jp2_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/jp2/jp2_cod.c
+END
+jp2_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/jp2/jp2_enc.c
+END
+jp2_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/jpeg2000/libjasper/jp2/jp2_cod.h
+END

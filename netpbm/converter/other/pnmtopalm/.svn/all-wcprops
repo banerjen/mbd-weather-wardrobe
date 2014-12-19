@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/1194/stable/converter/other/pnmtopalm
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/LICENSE
+END
+palmcolormap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/palmcolormap.c
+END
+palmtopnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/netpbm/code/!svn/ver/1194/stable/converter/other/pnmtopalm/palmtopnm.c
+END
+pnmtopalm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pnmtopalm/pnmtopalm.c
+END
+palmgray1.map
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/palmgray1.map
+END
+palmgray2.map
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/palmgray2.map
+END
+palmcolor8.map
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pnmtopalm/palmcolor8.map
+END
+palmgray4.map
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/palmgray4.map
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pnmtopalm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/README
+END
+gen_palm_colormap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/netpbm/code/!svn/ver/995/stable/converter/other/pnmtopalm/gen_palm_colormap.c
+END
+palm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/pnmtopalm/palm.h
+END

@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 183
+depend.mk
+importinc
+pamdeinterlace
+pammixinterlace
+pamoil
+pampop9
+pbmlife
+pgmabel
+pgmbentley
+pgmmorphconv
+pnmindex
+ppm3d
+ppmglobe
+ppmlabel
+ppmntsc
+ppmrelief
+ppmshift
+ppmspread
+ppmtv
+
+
+END

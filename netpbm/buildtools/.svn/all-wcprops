@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/2301/stable/buildtools
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/buildtools/mkinstalldirs
+END
+installnetpbm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/buildtools/installnetpbm.pl
+END
+configure.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/2165/stable/buildtools/configure.pl
+END
+typegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/buildtools/typegen.c
+END
+stamp-date
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/9/stable/buildtools/stamp-date
+END
+config_template
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/9/stable/buildtools/config_template
+END
+pkgconfig_template
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/2301/stable/buildtools/pkgconfig_template
+END
+makecat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/buildtools/makecat
+END
+make_merge.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/9/stable/buildtools/make_merge.sh
+END
+makeman
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/buildtools/makeman
+END
+endiangen.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/netpbm/code/!svn/ver/995/stable/buildtools/endiangen.c
+END
+makepointerman
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/buildtools/makepointerman
+END
+libopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/buildtools/libopt.c
+END
+empty_depend
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/buildtools/empty_depend
+END
+README.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/buildtools/README.pkg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/buildtools/Makefile
+END
+manpage.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/buildtools/manpage.mk
+END
+installosf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/buildtools/installosf
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/9/stable/buildtools/install.sh
+END

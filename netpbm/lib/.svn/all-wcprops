@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/p/netpbm/code/!svn/ver/2276/stable/lib
+END
+pammap.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/pammap.h
+END
+libppmfloyd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/libppmfloyd.c
+END
+pbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/995/stable/lib/pbm.h
+END
+libsystem_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/lib/libsystem_dummy.c
+END
+ppmdfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/902/stable/lib/ppmdfont.c
+END
+libppm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/9/stable/lib/libppm.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/Makefile
+END
+ppmdfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/lib/ppmdfont.h
+END
+pnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/995/stable/lib/pnm.h
+END
+libpamread.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/1076/stable/lib/libpamread.c
+END
+ppm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/2276/stable/lib/ppm.h
+END
+libpammap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/lib/libpammap.c
+END
+libpamcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/libpamcolor.c
+END
+libpam.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/libpam.c
+END
+standard.ppmdfont
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/9/stable/lib/standard.ppmdfont
+END
+bitio.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/9/stable/lib/bitio.c
+END
+dithers.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/dithers.h
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/fileio.c
+END
+rgb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/9/stable/lib/rgb.txt
+END
+standardppmdfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/9/stable/lib/standardppmdfont.c
+END
+libpam.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/libpam.h
+END
+bitio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/995/stable/lib/bitio.h
+END
+libsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/2276/stable/lib/libsystem.c
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/fileio.h
+END
+libpgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/995/stable/lib/libpgm.h
+END
+colorname.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/lib/colorname.c
+END
+libpamwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/libpamwrite.c
+END
+ppmdraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/ppmdraw.h
+END
+pm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/1655/stable/lib/pm.h
+END
+libpamn.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpamn.c
+END
+libppmcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/1960/stable/lib/libppmcolor.c
+END
+pam.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/995/stable/lib/pam.h
+END
+pm_gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/995/stable/lib/pm_gamma.h
+END
+libppmcmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/lib/libppmcmap.c
+END
+colorname.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/lib/colorname.h
+END
+pm_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/995/stable/lib/pm_system.h
+END
+libpbm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpbm1.c
+END
+libpbm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpbm2.c
+END
+libppmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/1233/stable/lib/libppmd.c
+END
+libpbm3.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpbm3.c
+END
+pgm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/995/stable/lib/pgm.h
+END
+libpgm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpgm1.c
+END
+libpbmvms.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/9/stable/lib/libpbmvms.c
+END
+libppmfuzzy.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/libppmfuzzy.c
+END
+libpgm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpgm2.c
+END
+libpbmfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/1244/stable/lib/libpbmfont.c
+END
+path.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/netpbm/code/!svn/ver/9/stable/lib/path.c
+END
+ppmfloyd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/995/stable/lib/ppmfloyd.h
+END
+libpnm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpnm1.c
+END
+lum.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/netpbm/code/!svn/ver/9/stable/lib/lum.h
+END
+ppmcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/ppmcmap.h
+END
+libpnm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpnm2.c
+END
+libpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/2276/stable/lib/libpm.c
+END
+libppm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libppm1.c
+END
+libpnm3.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libpnm3.c
+END
+pmfileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/1656/stable/lib/pmfileio.c
+END
+libppm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/netpbm/code/!svn/ver/995/stable/lib/libppm2.c
+END
+libpbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/netpbm/code/!svn/ver/9/stable/lib/libpbm.h
+END
+pbmfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/netpbm/code/!svn/ver/1244/stable/lib/pbmfont.h
+END

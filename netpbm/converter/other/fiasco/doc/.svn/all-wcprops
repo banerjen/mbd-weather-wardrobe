@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc
+END
+fiasco_image_is_color.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image_is_color.3
+END
+fiasco_options_set_frame_pattern.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_frame_pattern.3
+END
+fiasco_c_options_set_video_param.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_video_param.3
+END
+fiasco_c_options_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_delete.3
+END
+fiasco_image_get_width.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image_get_width.3
+END
+fiasco_options_set_progress_meter.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_progress_meter.3
+END
+fiasco_options_set_prediction.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_prediction.3
+END
+fiasco_c_options_set_basisfile.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_basisfile.3
+END
+fiasco_options.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options.3
+END
+fiasco_decoder_get_height.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_height.3
+END
+fiasco_options_set_smoothing.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_smoothing.3
+END
+fiasco_d_options_set_magnification.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options_set_magnification.3
+END
+fiasco_image_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image_delete.3
+END
+fiasco_decoder.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder.3
+END
+fiasco_c_options_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_new.3
+END
+fiasco_options_set_chroma_quality.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_chroma_quality.3
+END
+fiasco_c_options_set_title.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_title.3
+END
+fiasco_options_set_video_param.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_video_param.3
+END
+fiasco_decoder_get_frame.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_frame.3
+END
+fiasco_d_options_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options_delete.3
+END
+fiasco_image.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image.3
+END
+fiasco_get_verbosity.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_get_verbosity.3
+END
+fiasco_options_set_basisfile.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_basisfile.3
+END
+fiasco_decoder_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_delete.3
+END
+fiasco_renderer_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_renderer_delete.3
+END
+fiasco_c_options_set_progress_meter.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_progress_meter.3
+END
+fiasco_c_options_set_prediction.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_prediction.3
+END
+fiasco_options_set_magnification.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_magnification.3
+END
+fiasco_d_options.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options.3
+END
+fiasco_set_verbosity.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_set_verbosity.3
+END
+fiasco_c_options_set_optimizations.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_optimizations.3
+END
+fiasco_decoder_get_width.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_width.3
+END
+fiasco_options_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_new.3
+END
+fiasco_decoder_get_length.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_length.3
+END
+fiasco_decoder_get_title.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_title.3
+END
+fiasco_renderer.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_renderer.3
+END
+fiasco_c_options_set_chroma_quality.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_chroma_quality.3
+END
+fiasco_options_set_tiling.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_tiling.3
+END
+fiasco_options_set_quantization.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_quantization.3
+END
+fiasco_decoder_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_new.3
+END
+fiasco_c_options_set_comment.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_comment.3
+END
+fiasco_decoder_get_framerate.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_framerate.3
+END
+fiasco_image_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image_new.3
+END
+fiasco_get_error_message.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_get_error_message.3
+END
+fiasco_decoder_is_color.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_is_color.3
+END
+fiasco_options_set_optimizations.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_optimizations.3
+END
+fiasco_options_set_4_2_0_format.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_set_4_2_0_format.3
+END
+fiasco_d_options_set_4_2_0_format.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options_set_4_2_0_format.3
+END
+fiasco_renderer_render.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_renderer_render.3
+END
+fiasco_d_options_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options_new.3
+END
+fiasco_options_delete.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_options_delete.3
+END
+README.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/README.LIB
+END
+fiasco_c_options_set_tiling.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_tiling.3
+END
+fiasco_c_options_set_quantization.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_quantization.3
+END
+fiasco_renderer_new.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_renderer_new.3
+END
+fiasco_c_options_set_frame_pattern.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_frame_pattern.3
+END
+fiasco_decoder_get_comment.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_get_comment.3
+END
+fiasco_decoder_write_frame.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_decoder_write_frame.3
+END
+fiasco_coder.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_coder.3
+END
+fiasco_c_options.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options.3
+END
+fiasco_c_options_set_smoothing.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_c_options_set_smoothing.3
+END
+fiasco_d_options_set_smoothing.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_d_options_set_smoothing.3
+END
+fiasco_image_get_height.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/doc/fiasco_image_get_height.3
+END

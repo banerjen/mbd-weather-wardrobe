@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 60
+Makefile.depend
+importinc
+jpeg2ktopam
+pamtojpeg2k
+depend.mk
+
+END

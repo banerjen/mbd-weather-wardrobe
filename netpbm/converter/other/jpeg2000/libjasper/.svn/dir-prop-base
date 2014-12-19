@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+Makefile.depend
+importinc
+partlist
+*.a
+depend.mk
+
+END

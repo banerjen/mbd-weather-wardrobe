@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/netpbm/code/!svn/ver/2165/stable/other
+END
+ppmtomap
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/netpbm/code/!svn/ver/9/stable/other/ppmtomap
+END
+ppmddumpfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/other/ppmddumpfont.c
+END
+pamsummcol.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/other/pamsummcol.c
+END
+ppmdmkfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/other/ppmdmkfont.c
+END
+pampick.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/1799/stable/other/pampick.c
+END
+pnmcolormap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/other/pnmcolormap.c
+END
+pamsplit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/other/pamsplit.c
+END
+ppmdcfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/other/ppmdcfont.c
+END
+pamendian.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/other/pamendian.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/2165/stable/other/Makefile
+END
+pamfixtrunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/other/pamfixtrunc.c
+END
+pambayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/other/pambayer.c
+END
+pamdepth.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/other/pamdepth.c
+END
+pamstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/995/stable/other/pamstack.c
+END
+ppmsvgalib.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/other/ppmsvgalib.c
+END
+pamarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/1595/stable/other/pamarith.c
+END
+pamchannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/other/pamchannel.c
+END
+pamlookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/other/pamlookup.c
+END

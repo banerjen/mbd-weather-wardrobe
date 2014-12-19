@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco
+END
+binerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/binerror.h
+END
+params.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/params.h
+END
+system.fiascorc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/system.fiascorc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/Makefile
+END
+buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/buttons.c
+END
+README.netpbm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/README.netpbm
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/getopt.c
+END
+buttons.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/buttons.h
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/display.c
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/getopt.h
+END
+fiasco.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/fiasco.h
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/display.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/1045/stable/converter/other/fiasco/config.h
+END
+fiascotopnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/fiascotopnm.c
+END
+binerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/binerror.c
+END
+pnmtofiasco.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/pnmtofiasco.c
+END
+getopt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/getopt1.c
+END
+params.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/params.c
+END

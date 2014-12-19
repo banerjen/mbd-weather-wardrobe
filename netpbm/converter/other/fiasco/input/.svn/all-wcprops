@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/input
+END
+nd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/nd.h
+END
+basis.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/basis.h
+END
+matrices.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/matrices.c
+END
+weights.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/weights.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/read.c
+END
+matrices.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/matrices.h
+END
+weights.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/weights.h
+END
+read.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/read.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/input/Makefile
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/tree.c
+END
+mc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/mc.c
+END
+nd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/nd.c
+END
+basis.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/basis.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/tree.h
+END
+mc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/input/mc.h
+END

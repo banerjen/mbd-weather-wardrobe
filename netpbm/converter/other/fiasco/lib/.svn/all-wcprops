@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/lib
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/types.h
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/list.c
+END
+arith.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/arith.h
+END
+mvcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/mvcode.c
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/1045/stable/converter/other/fiasco/lib/dither.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/list.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/lib/image.c
+END
+mvcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/mvcode.h
+END
+bit-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/bit-io.c
+END
+dither.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/dither.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/1100/stable/converter/other/fiasco/lib/image.h
+END
+rpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/1045/stable/converter/other/fiasco/lib/rpf.c
+END
+bit-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/bit-io.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/macros.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/error.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/lib/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/995/stable/converter/other/fiasco/lib/Makefile
+END
+rpf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/rpf.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/error.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/misc.h
+END
+arith.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/other/fiasco/lib/arith.c
+END

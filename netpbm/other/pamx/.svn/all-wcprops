@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/netpbm/code/!svn/ver/1279/stable/other/pamx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/other/pamx/Makefile
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/window.h
+END
+send.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/send.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/other/pamx/image.c
+END
+pamx.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/other/pamx/pamx.c
+END
+fill.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/fill.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/COPYRIGHT
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/1279/stable/other/pamx/image.h
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/other/pamx/window.c
+END
+send.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/1279/stable/other/pamx/send.c
+END
+valtomem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/valtomem.h
+END
+fill.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/fill.h
+END
+ximageinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/9/stable/other/pamx/ximageinfo.h
+END

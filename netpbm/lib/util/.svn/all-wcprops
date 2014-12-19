@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/netpbm/code/!svn/ver/2044/stable/lib/util
+END
+nstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/lib/util/nstring.c
+END
+testnstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/9/stable/lib/util/testnstring.c
+END
+mallocvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/lib/util/mallocvar.h
+END
+filename.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/lib/util/filename.h
+END
+nsleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/util/nsleep.c
+END
+nstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/lib/util/nstring.h
+END
+intcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/995/stable/lib/util/intcode.h
+END
+nsleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/util/nsleep.h
+END
+wordaccess_64_le.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/995/stable/lib/util/wordaccess_64_le.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/util/Makefile
+END
+wordaccess_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/lib/util/wordaccess_generic.h
+END
+wordaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/lib/util/wordaccess.h
+END
+wordintclz.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/995/stable/lib/util/wordintclz.h
+END
+floatcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/1326/stable/lib/util/floatcode.h
+END
+shhopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/util/shhopt.c
+END
+wordaccess_gcc3_be.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/995/stable/lib/util/wordaccess_gcc3_be.h
+END
+shhopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/995/stable/lib/util/shhopt.h
+END
+bitarith.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/995/stable/lib/util/bitarith.h
+END
+vasprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/netpbm/code/!svn/ver/2044/stable/lib/util/vasprintf.c
+END
+shhopt-1.1.6.lsm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/netpbm/code/!svn/ver/9/stable/lib/util/shhopt-1.1.6.lsm
+END
+bitreverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/netpbm/code/!svn/ver/9/stable/lib/util/bitreverse.h
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/netpbm/code/!svn/ver/9/stable/lib/util/LICENSE.txt
+END
+pm_c_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/995/stable/lib/util/pm_c_util.h
+END
+lexheader
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/netpbm/code/!svn/ver/9/stable/lib/util/lexheader
+END
+filename.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/netpbm/code/!svn/ver/9/stable/lib/util/filename.c
+END
+shhopt.README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/netpbm/code/!svn/ver/9/stable/lib/util/shhopt.README
+END

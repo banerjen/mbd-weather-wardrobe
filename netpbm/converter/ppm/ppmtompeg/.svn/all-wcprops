@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/netpbm/code/!svn/ver/2165/stable/converter/ppm/ppmtompeg
+END
+iframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/iframe.c
+END
+bsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/bsearch.c
+END
+specifics.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/specifics.c
+END
+combine.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/combine.c
+END
+frames.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/frames.c
+END
+gethostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/gethostname.c
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/BUGS
+END
+fsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/fsize.c
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/HISTORY
+END
+postdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/postdct.c
+END
+gethostname.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/gethostname.h
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/jpeg.c
+END
+psearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/psearch.c
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/COPYRIGHT
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/CHANGES
+END
+mheaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/mheaders.c
+END
+mfwddct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/mfwddct.c
+END
+noparallel.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/noparallel.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/2165/stable/converter/ppm/ppmtompeg/Makefile
+END
+bframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/bframe.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/input.c
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/1326/stable/converter/ppm/ppmtompeg/param.c
+END
+qtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/qtest.c
+END
+jrevdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/jrevdct.c
+END
+mquant.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/mquant.c
+END
+bitio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/bitio.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/memory.c
+END
+ppmtompeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/ppmtompeg.c
+END
+psocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/psocket.c
+END
+pframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/pframe.c
+END
+parse_huff.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/parse_huff.pl
+END
+LOGIC
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/LOGIC
+END
+rgbtoycc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/rgbtoycc.c
+END
+moutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/moutput.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/file.c
+END
+nojpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/nojpeg.c
+END
+opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/opts.c
+END
+readframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/readframe.c
+END
+huff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/huff.c
+END
+mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/mpeg.c
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/block.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/frame.c
+END
+rate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/rate.c
+END
+subsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/subsample.c
+END
+frametype.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/frametype.c
+END
+parallel.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/parallel.c
+END
+huff.table
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/netpbm/code/!svn/ver/9/stable/converter/ppm/ppmtompeg/huff.table
+END
+gethostname_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/netpbm/code/!svn/ver/995/stable/converter/ppm/ppmtompeg/gethostname_win32.c
+END
