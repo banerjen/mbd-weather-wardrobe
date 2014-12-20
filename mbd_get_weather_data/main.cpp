@@ -74,7 +74,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-        file_path = "/home/nbanerjee/MBD_data/weather_data.xml";
+        file_path = "weather_data.xml";
         weather_url = "http://api.openweathermap.org/data/2.5/weather?q=Worcester&mode=xml";
     }
 

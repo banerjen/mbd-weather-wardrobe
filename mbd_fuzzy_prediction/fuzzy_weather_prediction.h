@@ -65,5 +65,6 @@ void displayOutput(WWFuzzyPredictionPtr &fuzzy_inference);
 void displayClothes(WWFuzzyPredictionPtr &fuzzy_inference,
 					std::vector< std::pair<int, std::string> > &clothes_database);
 void getInputHardCode(WWFuzzyPredictionPtr &fuzzy_inference);
-void printTagsHardCode(std::vector< std::pair<int, std::string> > &clothes_database,
-					   std::vector<int> &tags_list);
+void printTagsCorrespondingClothes(std::vector< std::pair<int, std::string> > &clothes_database,
+                                   std::vector<int> &tags_list);
+void getClothesInCloset(std::vector<std::pair<int, std::string> > &clothes_database, std::vector<int> &tags_list);

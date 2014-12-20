@@ -40,19 +40,19 @@ bool AprilTagDetector::detectTags()
 	    	
 	    	memset(hamm_hist, 0, sizeof(hamm_hist));
 
-	    	status_ = system("/home/root/all_code/apriltag_detector/capture");
+            status_ = system("../apriltag_detector/capture");
 
 			if (status_ != 0)
 		    {
-		        std::cout << "Error in getting the image from the camera. Skipping tag detection.";
+                std::cout << "Error in getting the image from the camera. Skipping tag detection." << std::endl;
 		        return false;
 		    }
 
-		    status_ = system("/home/root/all_code/netpbm/netpbm/converter/other/jpegtopnm result.jpg>result.pnm");
+            status_ = system("../netpbm/converter/other/jpegtopnm result.jpg>result.pnm");
 
 		    if (status_ != 0)
 		    {
-		        std::cout << "Error in the conversion from jpeg to pnm. Skipping tag detection.";
+                std::cout << "Error in the conversion from jpeg to pnm. Skipping tag detection." << std::endl;
 		        return false;
 		    }
 

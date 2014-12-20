@@ -278,94 +278,94 @@ void displayClothes(WWFuzzyPredictionPtr &fuzzy_inference,
 	std::vector<int> clothing;
 
 	fuzzy_inference->getOutput(SHIRT, value);
-	if ((value >= 0) && (value <= 0.3))
-	{
+    if ((value >= 0) && (value <= 0.3))
+    {
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 
 			if (((std::string) clothes_database[i].second).compare("Half Sleeve Shirt") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}
-		}
-	}
+        }
+    }
 	else if ((value >= 0.25) && (value <= 0.5))
-	{
+    {
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Full Sleeve Shirt") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}	
-		}
-	}
+        }
+    }
 	else if ((value >= 0.45) && (value <= 0.75))
 	{
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Full Sleeve Shirt") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}	
-		}
+        }
 
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Thermal") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}	
-		}
+        }
 	}
 	else if ((value >= 0.7) && (value <= 1.0))
 	{
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Full Sleeve Shirt") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}	
-		}
+        }
 
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if ((((std::string) clothes_database[i].second).compare("Full Sleeve Shirt") == 0) ||
 				(((std::string) clothes_database[i].second).compare("Half Sleeve Shirt") == 0))
 			{
 				clothing.push_back(i);
 				break;
 			}	
-		}		
+        }
 	}
 
 	fuzzy_inference->getOutput(PANT, value);
 	if ((value >= 0.0) && (value <= 0.2))
-	{
+    {
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Shorts") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}
-		}
-	}
+        }
+    }
 	else if ((value >= 0.15) && (value <= 0.5))
-	{
+    {
 		for (int i = 0; i < clothes_database.size(); i++)
-		{
+        {
 			if (((std::string) clothes_database[i].second).compare("Casual Pants") == 0)
 			{
 				clothing.push_back(i);
 				break;
 			}
-		}
-	}
+        }
+    }
 	else if ((value >= 0.45) && (value <= 0.7))
 	{
 		for (int i = 0; i < clothes_database.size(); i++)
@@ -409,7 +409,7 @@ void displayClothes(WWFuzzyPredictionPtr &fuzzy_inference,
 
 	fuzzy_inference->getOutput(JACKET, value);
 	if ((value >= 0.18) && (value <= 0.3))
-	{
+    {
 		for (int i = 0; i < clothes_database.size(); i++)
 		{
 			if (((std::string) clothes_database[i].second).compare("Light Jacket") == 0)
@@ -418,7 +418,7 @@ void displayClothes(WWFuzzyPredictionPtr &fuzzy_inference,
 				break;
 			}
 		}
-	}
+    }
 	else if ((value >= 0.25) && (value <= 0.65))
 	{
 		for (int i = 0; i < clothes_database.size(); i++)
@@ -450,6 +450,7 @@ void displayClothes(WWFuzzyPredictionPtr &fuzzy_inference,
 	}
 }
 
+// Hard coded set for "fake" demonstration
 void getInputHardCode(WWFuzzyPredictionPtr &fuzzy_inference)
 {
 	double value;
@@ -471,8 +472,8 @@ void getInputHardCode(WWFuzzyPredictionPtr &fuzzy_inference)
 	fuzzy_inference->setInput(WIND, value);	
 }
 
-void printTagsHardCode(std::vector< std::pair<int, std::string> > &clothes_database,
-					   std::vector<int> &tags_list)
+void printTagsCorrespondingClothes(std::vector< std::pair<int, std::string> > &clothes_database,
+                                   std::vector<int> &tags_list)
 {
 	std::cout << "Tags detected: " << std::endl;
 
@@ -480,4 +481,16 @@ void printTagsHardCode(std::vector< std::pair<int, std::string> > &clothes_datab
 	{
 		std::cout << "Detected Tag Id: " << tags_list[i] << " -- " << clothes_database[tags_list[i]].second << std::endl;
 	}
+}
+
+void getClothesInCloset(std::vector<std::pair<int, std::string> > &clothes_database,
+                        std::vector<int> &tags_list)
+{
+    std::vector<std::pair<int, std::string> > clothes_database2;
+
+    for (int i = 0; i < clothes_database.size(); i++)
+        if (std::find(tags_list.begin(), tags_list.end(), (int) ((std::pair<int, std::string>) clothes_database.at(i)).first) != tags_list.end())
+            clothes_database2.push_back(clothes_database.at(i));
+
+    clothes_database = clothes_database2;
 }
